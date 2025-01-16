@@ -1,12 +1,7 @@
 # Teaching-Project
 
+bevezető beszéd (2 perc)
 
-2 perc bevezető beszéd
+[kahoot](https://kahoot.it) (5 perc)
 
-5p [kahoot](https://kahoot.it)
-
-[prezentáció](https://gamma.app/docs/Software-Testing-Debugging-kair2621to3vnrv)
-
-
-
-
+[prezentáció](https://gamma.app/docs/Software-Testing-Debugging-kair2621to3vnrv) (10 perc)
